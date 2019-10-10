@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+option java_package = "com.bentekkie.nextbus.proto";
+option java_outer_classname = "Messages";
+
+message StopMsg {
+    optional string stop_id = 1;
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextBus</string>
+    <string name="time">%1%dm</string>
+    <string name="trip">%1$s-%2$s</string>
+</resources>
